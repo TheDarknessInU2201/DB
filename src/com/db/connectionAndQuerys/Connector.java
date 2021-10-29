@@ -9,8 +9,8 @@ public class Connector {
         Connection conn = null;
         try {
             String dbURL = "jdbc:postgresql://localhost:5432/Media";
-            String user = "Supuser"; //exemple Superuser
-            String pass = "Password"; //exemple password
+            String user = "admin"; //exemple Superuser
+            String pass = "Hipster2.0"; //exemple password
 
             conn = DriverManager.getConnection(dbURL, user, pass);
             if (conn != null) {

@@ -1,5 +1,7 @@
 package com.db.connectionAndQuerys;
 
+import com.media.searchnewfiles;
+
 import java.util.Scanner;
 
 public class Starter {
@@ -18,12 +20,13 @@ public class Starter {
             String answerInput = kbInput.nextLine();
             if (answerInput.equals("y") || answerInput.equals("Y")) {
                 answerMS = true;
+                new searchnewfiles().listDrives();
             } else if (answerInput.equals("n") || answerInput.equals("N")) {
                 answerMS = false;
             } else {
                 System.out.println("""
                         Falsche Eingabe, bitte geben sie nur "y" für "Ja" oder "n" für "Nein" ein.
-                        """);
+                """);
             }
         }
 
