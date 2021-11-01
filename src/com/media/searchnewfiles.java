@@ -1,6 +1,7 @@
 package com.media;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 import javax.swing.filechooser.FileSystemView;
 import java.io.File;
@@ -19,6 +20,9 @@ public class searchnewfiles {
         }
         return drives;
     }
+=======
+public class searchnewfiles {
+>>>>>>> parent of 2ca55ad... File Search and Insert Query
 =======
 public class searchnewfiles {
 >>>>>>> parent of 2ca55ad... File Search and Insert Query

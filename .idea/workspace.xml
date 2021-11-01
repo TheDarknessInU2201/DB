@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51fcb3d8-1679-4f16-9769-108abafba655" name="Default Changelist" comment="s">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DB/com/db/connectionAndQuerys/Starter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DB/com/db/connectionAndQuerys/Starter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/db/connectionAndQuerys/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/db/connectionAndQuerys/Connector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/db/connectionAndQuerys/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/db/connectionAndQuerys/Starter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/db/connectionAndQuerys/main.java" beforeDir="false" />
